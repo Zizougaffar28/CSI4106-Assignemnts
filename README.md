@@ -1,1 +1,1 @@
-# CSI4106-Assignemnts
+# CSI4106-Assignments
